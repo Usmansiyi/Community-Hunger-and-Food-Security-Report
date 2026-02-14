@@ -1,87 +1,139 @@
-# Project Title: Youth-Basketball-Program-Excel Project 
+# Project Title: Community Hunger and Food Security Project 
 
 
+## Executive Summary
+
+The dashboard reveals a **high level of food insecurity (37%)** across the community, driven mainly by **low income, informal employment, and large household sizes**. Households are adopting harmful coping strategies such as **reducing meal portions and sending children to relatives**, indicating that food insecurity is already affecting **nutrition, education, and long-term wellbeing**.
 
 
-## Project Overview
-The analysis shows that August is the peak revenue month, while December and November are the lowest-performing months. The 11–15 age group drives the highest revenue contribution, and programs such as Summer Camp, AAU Teams, and General/Non-Specific training attract the most customers. Overall, the program demonstrates strong financial performance, high customer engagement, and clear seasonal trends.
+<img width="1359" height="756" alt="Screenshot 20" src="https://github.com/user-attachments/assets/9a77db4a-6165-400d-8d26-f299ba2d4a86" />
+
+## Methodology: Food Insecurity Scoring Model
+
+A household food insecurity scoring model was developed using four indicators:
+
+1. **Meals per day**
+2. **Whether the household ran out of food in the last 30 days**
+3. **Meal skipping behavior**
+4. **Use of coping strategies**
+
+Each indicator was assigned points, with a **maximum possible score of six**.
+
+* Households scoring **four or more points** were classified as **food secure**.
+* Households scoring **three points** were classified as **moderately food insecure**.
+* Households scoring **below three points** were classified as **severely food insecure (hungry)**.
+
+The proportion of households in the severely food insecure category was calculated to determine the **overall hunger rate across the population**, which stands at **37%**.
+
+---
+## Key Insights
+
+### 1. **Income is the strongest driver of hunger**
+
+* **Low-income households:** 42% food insecure
+* **Middle-income households:** 38%
+* **High-income households:** 31%
 
 
+  ➡️ Hunger decreases with income, but remains significant even at higher income levels, suggesting **systemic affordability issues**.
+
+---
+
+### 2. **Larger households are more vulnerable**
+
+* **Households with 5+ members:** 41% food insecure
+* **1–2 members:** 35%
+* **3–5 members:** 33%
 
 
-<img width="1299" height="679" alt="basketball program" src="https://github.com/user-attachments/assets/861a54f5-0f03-4b82-a182-7974b6d52cea" />
+  ➡️ Bigger families face higher food stress due to **higher consumption needs and limited income growth**.
+
+---
+
+### 3. **Employment quality matters more than employment status**
+
+* **Informal workers:** 46% food insecure (highest)
+* **Unemployed:** 35%
+* **Formal workers:** 26%
 
 
+  ➡️ Informal employment is the **most vulnerable group**, likely due to unstable income and lack of social protection.
+
+---
+
+### 4. **Severe coping strategies are common**
+
+* **Reduce meal portions:** 41.9%
+* **Borrow food or money:** 38.6%
+* **Send children to relatives:** 19.5%
 
 
+  ➡️ These strategies signal **chronic food stress**, not short-term shocks.
 
-## Objectives
-  **This report examines the performance of the Youth Basketball Program, with the aim of understanding revenue patterns, customer demographics, program demand, and payment behavior.**
+---
 
-  
-**Key metrics include:**
+### 5. **Social impact indicators are alarming**
 
-*Total Revenue: $5.0M
-
-*Total Customers: 11,275
-
-*Programs Offered: 27	
-
-*Payment Completion: 93% paid; $358K outstanding
-
-*Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
+* **Average meals per day:** 2
+* **Income spent on food:** 55%
+* **Children affected:** 286
+* **Illness (malnutrition):** 61 cases
+* **Kids missing school:** 31%
 
 
+  ➡️ Food insecurity is directly linked to **education disruption and health risks**.
 
+---
 
+## Business / Policy Implications
 
+* **Target groups:**
 
-## Reports
+  * Informal workers
+  * Low-income families
+  * Large households
+* **Risk areas:**
 
-- **Methodology**: 
+  * Child malnutrition
+  * School absenteeism
+  * Debt dependency (borrowing food/money)
 
-The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
-- **Data Analysis**:
-  
-**1. Seasonal Revenue Pattern**
-   
-  * Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
+---
 
-  * Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
+## Strategic Recommendations
 
-**2. Customer Demographics**
-   
-  * The 11–15 age group is the core revenue driver, contributing $3.2M.
+### Short-Term (Relief Focus)
 
-  * Other age groups contribute modestly, with 20+ years generating the least revenue.
+* Expand **food aid or meal subsidy programs** for:
 
-**3. Top-Performing Programs**
- 
-  * Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
+  * Large households
+  * Informal sector workers
+* Introduce **school feeding programs** to reduce absenteeism.
 
-  * Smaller programs include Elite MS Camps and Girls Summer Camps.
+### Medium-Term (Stability Focus)
 
-**4. Geographic Revenue Concentration**
-   
-  * Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
-  * These areas represent high-income, high-participation communities.
+* Support **income diversification** for informal workers.
+* Implement **food price stabilization** or voucher systems.
 
-**5. High-Value Families**
-   
-  * The Cartiera family is both the highest-paying and the largest participating household (132 customers).
-  * Several other families contribute strong recurring revenue.
+### Long-Term (Structural Focus)
 
-## Conclusion  
-These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
-## Recommendations
-Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
+* Promote **formal employment pathways**.
+* Invest in **nutrition education and maternal/child health** programs.
+
+---
+
+## Conclusion
+
+Food insecurity in the community is **structural, not temporary**. The data shows a clear link between hunger and **income level, household size, and informal employment**, with visible consequences for **children’s education and health**. Without targeted intervention, these patterns will reinforce poverty cycles across generations.
+
+---
 
 
 
 
 ## Author - Usman Siyi
 
-This project showcases MS Excel skills essential for analysing data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
+Looking For someone with skills on Excel,SQL,PowerBI and data analytics , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
