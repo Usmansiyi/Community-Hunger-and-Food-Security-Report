@@ -6,7 +6,9 @@
 The dashboard reveals a **high level of food insecurity (37%)** across the community, driven mainly by **low income, informal employment, and large household sizes**. Households are adopting harmful coping strategies such as **reducing meal portions and sending children to relatives**, indicating that food insecurity is already affecting **nutrition, education, and long-term wellbeing**.
 
 
-<img width="1359" height="756" alt="Screenshot 20" src="https://github.com/user-attachments/assets/9a77db4a-6165-400d-8d26-f299ba2d4a86" />
+<img width="1352" height="763" alt="Screenshot 2026-02-14 140543" src="https://github.com/user-attachments/assets/67989ebc-fd76-4997-b507-dfa43cbedb7a" />
+
+
 
 ## Methodology: Food Insecurity Scoring Model
 
