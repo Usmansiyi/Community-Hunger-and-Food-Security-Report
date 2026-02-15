@@ -12,7 +12,7 @@ The dashboard reveals a **high level of food insecurity (37%)** across the commu
 
 A household food insecurity scoring model was developed using four indicators:
 
-1. **Meals per day** (>2 = 2points, =2 = 1point else 0)
+1. **Meals per day** (>2 = 2points, 2 = 1point else 0)
 2. **Whether the household ran out of food in the last 30 days** (No = 2points else 0)
 3. **Meal skipping behavior** (No = 1point else 0)
 4. **Use of coping strategies** (No all through = 1point else 0)
